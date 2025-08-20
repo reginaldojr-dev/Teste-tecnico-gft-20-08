@@ -1,0 +1,15 @@
+Quero sua ajuda para criar um sistema simples em C# (Console App) que simule o controle de pedidos de uma lanchonete, seguindo POO + Lógica. De preferência um passo a passo para facilitar o processo.
+Seria um sistema em C# que simule o controle de pedidos de uma lanchonete.
+
+Quero usar POO e preciso seguir as seguintes regras:
+
+Ter uma classe "Produto" com propriedades "Nome", "Preço" e "Categoria"
+Ter uma classe Pedido que guarde uma lista de produtos e calcule o valor total.
+
+Se o valor total passar de R$100, aplicar 10% de desconto.
+
+Mostrar no final o resumo do pedido (produtos, total bruto, desconto e total líquido).
+
+Também gostaria de ter um catálogo fixo com alguns itens (X-Burger, X-Salada, Batata Frita, Refrigerante e Milkshake).
+
+Pode me mostrar, como organizar esse código em arquivos (Produto.cs, Pedido.cs, Program.cs) e me explicar o passo a passo de como rodar no terminal com dotnet run?
