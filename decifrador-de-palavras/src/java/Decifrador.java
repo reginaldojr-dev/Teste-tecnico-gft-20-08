@@ -15,8 +15,7 @@ public class Decifrador {
             char b = palavra.charAt(i + 1);
             char c = palavra.charAt(i + 2);
 
-            if (b == a + 1 && c == b + 1) ;
-            {
+            if (b == a + 1 && c == b + 1) {
                 rara = true;
                 sequencia = "" + a + b + c;
                 break;
